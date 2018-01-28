@@ -1,0 +1,9 @@
+E:\Mawaat\MazeGameWithAI\MazeGameWithAI\bin\Debug\MazeGameWithAI.exe.config
+E:\Mawaat\MazeGameWithAI\MazeGameWithAI\bin\Debug\MazeGameWithAI.exe
+E:\Mawaat\MazeGameWithAI\MazeGameWithAI\bin\Debug\MazeGameWithAI.pdb
+E:\Mawaat\MazeGameWithAI\MazeGameWithAI\obj\Debug\MazeGameWithAI.csprojResolveAssemblyReference.cache
+E:\Mawaat\MazeGameWithAI\MazeGameWithAI\obj\Debug\MazeGameWithAI.Form1.resources
+E:\Mawaat\MazeGameWithAI\MazeGameWithAI\obj\Debug\MazeGameWithAI.Properties.Resources.resources
+E:\Mawaat\MazeGameWithAI\MazeGameWithAI\obj\Debug\MazeGameWithAI.csproj.GenerateResource.Cache
+E:\Mawaat\MazeGameWithAI\MazeGameWithAI\obj\Debug\MazeGameWithAI.exe
+E:\Mawaat\MazeGameWithAI\MazeGameWithAI\obj\Debug\MazeGameWithAI.pdb
